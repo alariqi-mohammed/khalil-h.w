@@ -14,6 +14,14 @@ A brief description of what this project does and who it's for
 I'm a full stack developer...
 
 
+## Demo
+
+inter this link to view my website
+
+[Demo](https://alariqi-mohammed.github/khalil-h.w/)
+
+
+
 ## Installation
 
 Install my-project with npm
