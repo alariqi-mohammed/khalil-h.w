@@ -1,9 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -12,14 +7,6 @@ A brief description of what this project does and who it's for
 
 ## 🚀 About Me
 I'm a full stack developer...
-
-
-## Demo
-
-inter this link to view my website
-
-[Demo](https://alariqi-mohammed.github/khalil-h.w/)
-
 
 
 ## Installation
@@ -31,6 +18,11 @@ Install my-project with npm
   cd my-project
 ```
     
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
@@ -65,6 +57,11 @@ To run this project, you will need to add the following environment variables to
 `API_KEY`
 
 `ANOTHER_API_KEY`
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
 
 
 ## FAQ
