@@ -12,10 +12,6 @@ I'm a full stack developer...
 ## Demo
 
 interthis limk to view my webiste
-
-
-
-
 [Demo](https://alariqi-mohammed.github/khalil-h.w/)
 
 
